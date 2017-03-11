@@ -1,4 +1,4 @@
-# Write Ups
+# Write-Ups
 
 A collection of technical write-ups.
 
